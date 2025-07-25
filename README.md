@@ -72,5 +72,6 @@
 ### 📜 Certifications
 - 🎓 **CSC Advanced Diploma in Python Programming**  
 - 🎓 **NPTEL Operating System Fundamentals**
+- 🎓 **Infosys Springboard JAVA Developer Certification**
 
 ---
