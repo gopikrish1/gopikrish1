@@ -73,5 +73,7 @@
 - 🎓 **CSC Advanced Diploma in Python Programming**  
 - 🎓 **NPTEL Operating System Fundamentals**
 - 🎓 **Infosys Springboard JAVA Developer Certification**
+- 🎓 **AWS SimuLearn Cloud Practitioner (Aug 2025)**
+- 🎓 **TCS National Qualifier Test (NQT – IT) (Mar 2025) — Scored 81.44% overall.**
 
 ---
